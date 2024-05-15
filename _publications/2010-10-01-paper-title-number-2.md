@@ -1,12 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "A Natural Language Model for Generating PDDL"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'The goal of this
+preliminary work is to predict the next completion in PDDL code, based on previous and surrounding text. The ability to generate PDDL code will be extremely useful to PDDL practitioners for the purpose of solving planning problems. It further opens the door to providing a source of inspiration for the modeller. The main contribution of our approach is a language model built using Recurrent Neural Networks (RNNs) that is trained on existing PDDL domains, which can be used to generate PDDL-like code'
+date: 2021-08-01
+venue: 'The International Conference on Automated Planning and Scheduling (ICAPS) '
+paperurl: 'https://icaps21.icaps-conference.org/workshops/KEPS/Papers/KEPS_2021_paper_7.pdf'
+citation: '"A Natural Language Model for Generating PDDL", Nisha Simon and Christian Muise,	Proceedings of The International Conference on Automated Planning and Scheduling (ICAPS) 2021, KEPS Workshop, August 2021, pp 1–8.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Language generation in various domains has drawn a large amount of interest in recent years. This paper studies language generation in the context of generating planning specifications in the syntax typically used for this task: the Planning Domain Definition Language (PDDL). The goal of this preliminary work is to predict the next completion in PDDL code, based on previous and surrounding text. Generating valid PDDL code is a key component in creating robust planners. Thus, the ability to generate PDDL code will be extremely useful to PDDL practitioners for the purpose of solving planning problems. It further opens the door to providing a source of inspiration for the modeller. The main contribution of our approach is a language model built using Recurrent Neural Networks (RNNs) that is trained on existing PDDL domains, which can be used to generate PDDL-like code. We train our model on a corpus of publicly available PDDL files from api.planning.domains, and evaluate our approach in the setting of PDDL auto-prediction for some of the more common domains. We found that code-like generation is possible, although fluency can be improved.
+
+[PDF Paper](/files/KEPS_2021_paper_7.pdf){: .btn--research}

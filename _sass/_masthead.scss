@@ -4,7 +4,7 @@
 
 .masthead {
   position: fixed;
-  background: white;
+  background: rgb(251, 254, 251);
   border-bottom: 1px solid $border-color;
   height: $masthead-height;
   top: 0;
@@ -50,6 +50,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  //font-size: 2.5em;
 
   &--lg {
     padding-right: 2em;
