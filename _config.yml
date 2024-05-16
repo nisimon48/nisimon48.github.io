@@ -12,7 +12,7 @@ title                    : "Nisha Simon"
 title_separator          : "-"
 name                     : &name "Nisha Simon"
 description              : &description "Nisha Simon Academic website"
-url                      : https://github.com/nisimon48/nisimon48.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nisimon48.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nisimon48/nisimon48.github.io"
 
