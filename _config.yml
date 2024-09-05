@@ -27,7 +27,7 @@ author:
   bio              : "Researcher in Artificial Intelligence, specifically Automated Plannning and Natural Language Processing | Storyteller"
   location         : "Canada"
   employer         : "Queen's University"
-  uri              : "https://mulab.ai/member/nisha.simon/"
+  uri              : # URL
   email            : "nisha.simon@queensu.ca" 
 
   # Academic websites
