@@ -24,11 +24,12 @@ author:
   avatar           : "profile.png"
   name             : "Storyteller"
   pronouns         : "she/her"  
-  bio              : "Researcher in Artificial Intelligence, specifically Automated Plannning and Natural Language Processing | Storyteller"
+  bio              : "Researcher in Artificial Intelligence"
   location         : "Canada"
   employer         : "Queen's University"
   uri              : # URL
   email            : "nisha.simon@queensu.ca" 
+  #bio              : "Researcher in Artificial Intelligence, specifically Automated Plannning and Natural Language Processing | Storyteller"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
