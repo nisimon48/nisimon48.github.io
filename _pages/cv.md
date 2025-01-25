@@ -26,7 +26,7 @@ Selected Work Experience
   * Automated Planning and Natural Language Processing research at the MuLab
   * Mentoring graduate and undergraduate students
 
-* **September 2020 – present  HEAD TEACHING ASSISTANT/ TEACHING ASSISTANT** 
+* **September 2020 – January 2025  HEAD TEACHING ASSISTANT/ TEACHING ASSISTANT** 
 * _School of Computing, Queen’s University, Kingston_
   * Answered students’ questions about Computing courses during office hours and via email.
   * Designed assignments and quiz questions.
