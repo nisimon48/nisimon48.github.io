@@ -98,6 +98,7 @@ Academic Awards
 
 Academic Service and Leadership
 -----
+* Adjudicator (Presentation Reviewer) for the Inquiry@Queen's (I@Q) Conference 2025
 * Program Committee Member and Reviewer for AIIDE Conference 2024
 * Program Committee Member and Reviewer for AIIDE Conference 2023
 * Faculty Hiring and Promotion Committee, School of Computing Graduate Student Representative 2022-2023.
