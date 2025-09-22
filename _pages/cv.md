@@ -13,7 +13,7 @@ Education
 ------
 <!--- Replace the above single title underline with a double underline i.e. ===== to make the title bigger  --->
 
-* Ph.D in Computing, Queen's University (expected Spring 2025)
+* Ph.D in Computing, Queen's University (expected 2026)
 * MSc. in Computer Science, Dalhousie University
 * BSc. in Computer Engineering, University of Manitoba
 * BComm. Co-op Major in Finance, Dalhousie University
